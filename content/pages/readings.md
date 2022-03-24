@@ -140,7 +140,7 @@ Spectral graph theory, spectral clustering, and community detection
 
 \[N\] Chapter 11.5. 
 
-Spielman, Daniel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 16: Spectral Graph Theory (PDF)](http://www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf). Yale University, 2007.
+Spielman, Daniel. [Chapter 16: Spectral Graph Theory (PDF)](http://www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf). Yale University, 2007.
 
 
 {{< tdclose >}}

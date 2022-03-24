@@ -33,7 +33,7 @@ TOPICS
 2 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linear Algebra Review and Reference (PDF)](http://cs229.stanford.edu/section/cs229-linalg.pdf) by Zico Kolter (updated by Chuong Do)
+[Linear Algebra Review and Reference (PDF)](http://cs229.stanford.edu/section/cs229-linalg.pdf) by Zico Kolter (updated by Chuong Do)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Spectral Graph Theory (PDF)](http://www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf) by Daniel Spielman
+[Spectral Graph Theory (PDF)](http://www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf) by Daniel Spielman
 {{< tdclose >}}
 
 {{< trclose >}}
