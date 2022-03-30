@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-022-introduction-to-network-models-fall-2018/c85b4509bb173360f028a6bc4f983476_MIT1_022F18_RelatedResource4.pdf
 file_type: application/pdf
+parent_uid: 3c7c31f1-b722-eb35-9611-72366b87270a
 resourcetype: Document
 title: '1.022_F18 Related Resource 4: Spectral Theorem Example'
 uid: c85b4509-bb17-3360-f028-a6bc4f983476
