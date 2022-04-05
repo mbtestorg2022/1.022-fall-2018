@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 3c7c31f1-b722-eb35-9611-72366b87270a
 ---
@@ -33,7 +35,7 @@ TOPICS
 2 
 {{< tdclose >}}
 {{< tdopen >}}
-[Linear Algebra Review and Reference (PDF)](http://cs229.stanford.edu/section/cs229-linalg.pdf) by Zico Kolter (updated by Chuong Do)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linear Algebra Review and Reference (PDF)](http://cs229.stanford.edu/section/cs229-linalg.pdf) by Zico Kolter (updated by Chuong Do)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +44,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Spectral Graph Theory (PDF)](http://www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf) by Daniel Spielman
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Spectral Graph Theory (PDF)](http://www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf) by Daniel Spielman
 {{< tdclose >}}
 
 {{< trclose >}}

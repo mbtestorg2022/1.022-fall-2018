@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 79eb2273-7a39-6156-382c-dce20b0c04b6
 ---
@@ -48,7 +51,7 @@ _Related resources:_
 
 [primaryschool.csv]({{< baseurl >}}/resources/primaryschool)
 
-[Zachary's Karate Club dataset.txt](./resolveuid/7c4139562027064f0ad1a42a08ad0ec7)
+[Zachary's Karate Club dataset.txt]({{< baseurl >}}/resources/zkc_data)
 
 
 {{< tdclose >}}
